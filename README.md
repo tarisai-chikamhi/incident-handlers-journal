@@ -32,5 +32,5 @@ on tools, techniques, and lessons learned.
 
 ---
 
-*This journal will be updated with new entries as the course progresses.*
-```
+*This journal will be updated with new entries as the course progresses.
+
