@@ -35,6 +35,4 @@ on tools, techniques, and lessons learned.
 *This journal will be updated with new entries as the course progresses.*
 ```
 
-Commit message for the README update:
-```
-Update README with journal entry table and skills overview
+
